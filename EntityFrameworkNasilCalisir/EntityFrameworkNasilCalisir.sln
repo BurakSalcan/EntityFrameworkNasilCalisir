@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkNasilCalisir", "EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir.csproj", "{BEE7280F-517E-4872-962C-619A7F777AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE7280F-517E-4872-962C-619A7F777AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE7280F-517E-4872-962C-619A7F777AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE7280F-517E-4872-962C-619A7F777AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE7280F-517E-4872-962C-619A7F777AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E07F11-ACCA-49C8-BDF5-F8D35808A090}
+	EndGlobalSection
+EndGlobal

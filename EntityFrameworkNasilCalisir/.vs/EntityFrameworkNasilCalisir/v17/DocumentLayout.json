@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|c:\\users\\burak\\source\\repos\\entityframeworknasilcalisir\\entityframeworknasilcalisir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|solutionrelative:entityframeworknasilcalisir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|c:\\users\\burak\\source\\repos\\entityframeworknasilcalisir\\entityframeworknasilcalisir\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|solutionrelative:entityframeworknasilcalisir\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|c:\\users\\burak\\source\\repos\\entityframeworknasilcalisir\\entityframeworknasilcalisir\\model\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE7280F-517E-4872-962C-619A7F777AB6}|EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir.csproj|solutionrelative:entityframeworknasilcalisir\\model\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Model\\DataModel.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNasilCalisir\\Model\\DataModel.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Model\\DataModel.cs",
+              "RelativeToolTip": "EntityFrameworkNasilCalisir\\Model\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:32:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Model\\Urun.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNasilCalisir\\Model\\Urun.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Model\\Urun.cs",
+              "RelativeToolTip": "EntityFrameworkNasilCalisir\\Model\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:27:50.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNasilCalisir\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityFrameworkNasilCalisir\\EntityFrameworkNasilCalisir\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkNasilCalisir\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA1wB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:26:43.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

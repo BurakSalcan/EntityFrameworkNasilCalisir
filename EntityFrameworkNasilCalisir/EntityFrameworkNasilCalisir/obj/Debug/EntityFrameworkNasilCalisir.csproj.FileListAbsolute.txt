@@ -1,0 +1,12 @@
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFrameworkNasilCalisir.exe.config
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFrameworkNasilCalisir.exe
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFrameworkNasilCalisir.pdb
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\obj\Debug\EntityFrameworkNasilCalisir.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\obj\Debug\EntityFrameworkNasilCalisir.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\obj\Debug\EntityFrameworkNasilCalisir.exe
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\obj\Debug\EntityFrameworkNasilCalisir.pdb
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFramework.dll
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFramework.xml
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\source\repos\EntityFrameworkNasilCalisir\EntityFrameworkNasilCalisir\obj\Debug\EntityFr.8C583174.Up2Date
